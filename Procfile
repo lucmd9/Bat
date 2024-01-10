@@ -1,1 +1,1 @@
-worker: bash Qrh9
+worker: bash lucmd9
